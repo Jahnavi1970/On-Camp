@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: "Lexend", sans-serif;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.sign-up-container {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sign-up-paper {
+  width: 35%;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form-paper {
+  width: 45%;
+  height: 95%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sign-up-header {
+  display: flex;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+
+.sign-up-form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-up-input {
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+.sign-up-button {
+  margin: 15px 0;
+}
